@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**VeceluXa/veceluxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi!
 
-Here are some ideas to get you started:
+I am a sophomore student at BSUIR, FCSN with a passion for software engineering. Currently in love with Android Development and Kotlin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+<a href="https://github.com/VeceluXa">
+  <img src="https://github-readme-stats.vercel.app/api?username=VeceluXa&show_icons=true&hide_border=true" />
+</a>
+
+---
+
+## Languages and Tools
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=FFFFFF)
+![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=android&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=OpenJdk&logoColor=FFFFFF)
+![Unix](https://img.shields.io/badge/-unix-090909?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)
